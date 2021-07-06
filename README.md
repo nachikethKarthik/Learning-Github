@@ -1,2 +1,2 @@
 # main header
-I am learning git and github now.
+I am learning git and github now!
