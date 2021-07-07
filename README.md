@@ -1,7 +1,7 @@
 # Welcome to the learning github repository !
 If you are an absolute newbie to git and github this is the  place for you.
 Here i have documented the learnings and steps i took to learn all about this version control system.
-Feel free to diverge from my path wherever necessary it matches your use needs.
+Feel free to diverge from my path wherever necessary if it doesnt match your use needs.
 
 ## What exactly is Git
 - Git is a free and open source version control system.
@@ -10,3 +10,11 @@ Feel free to diverge from my path wherever necessary it matches your use needs.
 - You start by saving an initial version of your code into git , as you continue to change your code you keep saving over the initial version and creating newer versions.
 - This helps us keep track of the changes we make,find bugs and go back to previous versions of code if required.
 ## Step1:Download Visual Studio Code
+### What is Visual Studio Code
+- Visual Studio Code or VS Code for short is a code editor.
+### What is a code editor ?
+- Code can be typed out anywhere.Be it in a notepad file or in a word document.But both Notepad and Microsoft Word are unable to understand that what is being typed is code so the process becomes tedious.This is where code editors come in.
+- There are certain apps which work just like notepad but are able to detect the code you type and format it into a neat and readable form.They also have additional features like autocomplete,auto format,user snippets and many others.
+- VS Code is one such application.
+-Go to https://code.visualstudio.com/ and follow along with a youtube video on how to install VS code.
+
