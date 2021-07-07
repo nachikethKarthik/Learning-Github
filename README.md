@@ -9,4 +9,4 @@ Feel free to diverge from my path wherever necessary it matches your use needs.
 - In simple words version control is a way for programmers to track code changes.
 - You start by saving an initial version of your code into git , as you continue to change your code you keep saving over the initial version and creating newer versions.
 - This helps us keep track of the changes we make,find bugs and go back to previous versions of code if required.
-
+## Step1:Download Visual Studio Code
