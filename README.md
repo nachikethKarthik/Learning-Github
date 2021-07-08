@@ -77,4 +77,5 @@
 
 ## step6 : Now you are all set to learn git and github
 - Here is a wonderful youtube video i used to get the basics down https://www.youtube.com/watch?v=RGOj5yH7evk&t=1361s
+- Check the comments of the video if you have any doubts. This helped me a lot.
 
