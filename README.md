@@ -42,3 +42,36 @@
 - VS Code is one such application.
 
 ## Step2 : Download Git
+- Go to https://git-scm.com/
+- Click on downloads the installer will be downloaded to your system.
+- Run the installer and foloow the on screen instructions to install git on your system.If you are a complete beginner like i was then there is no need to change any of the options in the installer.Default options are more than enough.
+
+## Step3 : Create a github account
+- go to https://github.com/
+- click sign up and create an account on github.
+
+## Step4 : Open git bash
+-git bash can be opened by pressing the windows key and searching 'git bash'.
+### What is git bash
+- It is a command-line shell for enabling git with the command line in your system.
+### What is a shell ? 
+- A shell is used to interface with an operating system through written commands.
+- Different applications have their own built in command line shells.
+- Windows also has its own command line shell called command prompt.
+![image](https://user-images.githubusercontent.com/85004364/124898133-891c0680-dffc-11eb-9236-ab082d916603.png)
+
+## Step5 : A few initial config commands(To be types in git bash shell)
+-Dont forget to press enter key to run each command after typing it out
+### Configuring username and email
+git config --global user.name "type your github username here"
+git config --global user.email "type the email you used in your github account"
+### Setting up an SSH key on github
+
+#### What is an SSH key
+- An SSH key as i understood it is basically a layer of security added to link your git and github.
+- The way i understand SSH is it is a pair of files.For example , if i create an ssh key with the file name "hello" ,2 files are actually generated. hello and hello.pub
+- Both hello and hello.pub have a unique serial number but what links the 2 is that you can generate hello.pub 's serial number only using that of hello .
+- What we do is add hello.pub to our github account and keep hello so that when we try to take code from github or add code to it , the operations will work only if we have hello on our system.
+- This prevents others from modifying our code.
+
+
