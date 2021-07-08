@@ -51,7 +51,7 @@
 - click sign up and create an account on github.
 
 ## Step4 : Open git bash
--git bash can be opened by pressing the windows key and searching 'git bash'.
+- git bash can be opened by pressing the windows key and searching 'git bash'.
 ### What is git bash
 - It is a command-line shell for enabling git with the command line in your system.
 ### What is a shell ? 
@@ -60,13 +60,14 @@
 - Windows also has its own command line shell called command prompt.
 ![image](https://user-images.githubusercontent.com/85004364/124898133-891c0680-dffc-11eb-9236-ab082d916603.png)
 
-## Step5 : A few initial config commands(To be types in git bash shell)
--Dont forget to press enter key to run each command after typing it out
+## Step5 : A few initial config commands(To be typed in git bash shell)
+- Dont forget to press enter key to run each command after typing it out
 ### Configuring username and email
-git config --global user.name "type your github username here"
-git config --global user.email "type the email you used in your github account"
+- git config --global user.name "type your github username here".
+- git config --global user.email "type the email you used in your github account".
 ### Setting up an SSH key on github
-
+- go to https://www.youtube.com/watch?v=WgZIv5HI44o
+- One thing i want to mention was in my system the .ssh folder was in C:\Users\'your username'\AppData\Roaming\SPB_Data so you may need to use that path when trying to copy to clipboard
 #### What is an SSH key
 - An SSH key as i understood it is basically a layer of security added to link your git and github.
 - The way i understand SSH is it is a pair of files.For example , if i create an ssh key with the file name "hello" ,2 files are actually generated. hello and hello.pub
@@ -74,4 +75,6 @@ git config --global user.email "type the email you used in your github account"
 - What we do is add hello.pub to our github account and keep hello so that when we try to take code from github or add code to it , the operations will work only if we have hello on our system.
 - This prevents others from modifying our code.
 
+## step6 : Now you are all set to learn git and github
+- Here is a wonderful youtube video i used to get the basics down https://www.youtube.com/watch?v=RGOj5yH7evk&t=1361s
 
